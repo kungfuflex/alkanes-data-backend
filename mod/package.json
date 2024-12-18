@@ -6,7 +6,8 @@
   "author": "Jairus Tanaka",
   "license": "MIT",
   "devDependencies": {
-    "assemblyscript": "^0.27.1"
+    "assemblyscript": "^0.27.1",
+    "nice-repl": "^0.1.2"
   },
   "dependencies": {},
   "repository": {
